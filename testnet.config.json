@@ -2,7 +2,10 @@
     "PERMISSIONS": {
         "CAN_TRANSFER_GATEWAY": [
         "FhcMbdEKESdkJ3NqMfhM285fdmaqLQR9qE5dVhcGpswB",
-        "H5BB68cUwsLxhWKsHVTQScZKxEZvxitvzwGGShyrxajG"
+        "H5BB68cUwsLxhWKsHVTQScZKxEZvxitvzwGGShyrxajG",
+        "DjRfeHsPG7T7KTUZ3C6KpUG55goDtNVtZYUx4sigjuYy",
+        "79uAEYcNbEHsnStSpB4EmaRrkvhrUNVnLeSQZavTMWNz",
+        "svuH2QUTe5GqmTuZ28nKjTpcg8rVHSEchF3mvrBc3iF"
         ],
         "CAN_TRANSFER_COINOMAT": [],
         "CANT_TRANSFER_GATEWAY": [],
@@ -44,7 +47,9 @@
                 "6yy6sqU2Wz9FB6yXR2kDZqBFANUW9YC4zvybGn3WTw69",
                 "FhcMbdEKESdkJ3NqMfhM285fdmaqLQR9qE5dVhcGpswB",
                 "H5BB68cUwsLxhWKsHVTQScZKxEZvxitvzwGGShyrxajG",
-                "DjRfeHsPG7T7KTUZ3C6KpUG55goDtNVtZYUx4sigjuYy"
+                "DjRfeHsPG7T7KTUZ3C6KpUG55goDtNVtZYUx4sigjuYy",
+                "79uAEYcNbEHsnStSpB4EmaRrkvhrUNVnLeSQZavTMWNz",
+                "svuH2QUTe5GqmTuZ28nKjTpcg8rVHSEchF3mvrBc3iF"
             ]
         }
     },
